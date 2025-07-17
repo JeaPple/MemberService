@@ -1,7 +1,7 @@
 package com.practice.member.user.controller;
 
 import com.practice.member.common.CommonDTO;
-import com.practice.member.common.CommonErrorDTO;
+import com.practice.member.exception.CommonErrorDTO;
 import com.practice.member.user.dto.UserCreateReqDTO;
 import com.practice.member.user.dto.UserDetailResDTO;
 import com.practice.member.user.dto.UserUpdateReqDTO;

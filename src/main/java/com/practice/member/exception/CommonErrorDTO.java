@@ -1,4 +1,4 @@
-package com.practice.member.common;
+package com.practice.member.exception;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
