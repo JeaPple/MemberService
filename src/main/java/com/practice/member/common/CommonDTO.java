@@ -9,6 +9,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class CommonDTO {
     private String status_message;
-    private int status_code;
+    private int testtestsetsetes;
     private Object result;
 }
